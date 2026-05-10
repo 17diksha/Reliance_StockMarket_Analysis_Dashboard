@@ -43,7 +43,7 @@ The dataset was generated after preprocessing stock market data using Python and
 
 ---
 
-## 📷 Dashboard Screenshot
+## Dashboard View
 
 <p align="center">
   <img src="Reliance_StockAnalysis_Dashboard.png" alt="Stock Dashboard" width="900"/>
